@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "كرمالك - سوق مخيم الوافدين",
+  "short_name": "كرمالك",
+  "description": "سوق إلكتروني ودليل محلي متكامل للمحلات والخدمات والمنتجات في مخيم الوافدين",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

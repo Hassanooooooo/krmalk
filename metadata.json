@@ -1,0 +1,8 @@
+{
+  "name": "Remix كرمالك - سوق مخيم الوافدين",
+  "description": "سوق إلكتروني ودليل تجاري محلي للخدمات والمنتجات والمحلات في مخيم الوافدين",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
